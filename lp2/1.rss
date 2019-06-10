@@ -1,0 +1,36 @@
+<rss
+    xmlns:yandex="http://news.yandex.ru"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:turbo="http://turbo.yandex.ru"
+    version="2.0">
+    <channel>
+        <title>The RSS feed title</title>
+        <link>https://greenbananafor.github.io/</link>
+        <description>Short description of the RSS feed</description>
+        <item turbo="true">
+            <link>https://greenbananafor.github.io/lp2/lp.html</link>            
+            <turbo:content>
+                <![CDATA[
+                         <header>
+                             <figure>
+                                 <img src="https://greenbananafor.github.io/lp2/assets/images/mbr.jpg" />
+                             </figure>
+                             <h1>Деньги — выгодно, удобно, безопасно</h1>
+                         </header>
+                         <h2>Мгновенные кэшбэки</h2>
+                         <p>Просто платите картой Денег и получайте кэшбэк 5% баллами.</p>
+                         <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-1.jpg" /><!Image-->                                           
+                         
+                        <h2>Банковская карта с доставкой</h2>
+                         <p>Закажите онлайн дебетовую карту с доставкой – и курьер привезет ее вам на дом совершенно бесплатно.</p>
+                         <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-2.jpg" /><!Image-->      
+			
+			  <h2>Виртуальная карта в один клик</h2>
+                         <p>Первая виртуальная карта для моментальной оплаты ваших бизнес-расходов.</p>
+                         <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-3.jpg" /><!Image--> 
+                         
+                      ]]>
+            </turbo:content>            
+        </item>
+    </channel>
+</rss>
