@@ -5,7 +5,7 @@
     version="2.0">
     <channel>
         <title>The RSS feed title</title>
-        <link>http://www.example.com/</link>
+        <link>https://greenbananafor.github.io/</link>
         <description>Short description of the RSS feed</description>
         <turbo:analytics type="Yandex" id="123456"></turbo:analytics>
         <turbo:adNetwork
@@ -32,7 +32,7 @@
                  ]]>
         </turbo:adNetwork>
         <item turbo="true">
-            <link>http://www.example.com/page1.html</link>
+            <link>https://greenbananafor.github.io/page1.html</link>
             <author>Ivan Ivanov</author>
             <category>Technologies</category>
             <pubDate>Sun, 29 Sep 2002 19:59:01 +0300</pubDate>
@@ -141,12 +141,12 @@
             </turbo:content>
             <yandex:related type="infinity">
                 <link
-                 url="http://www.example.com/other-page.html"
-                 img="http://www.example.com/image.jpg">ТLink text
+                 url="https://greenbananafor.github.io/other-page.html"
+                 img="https://greenbananafor.github.io/image.jpg">ТLink text
                 </link>
                 <link
-                 url="http://www.example.com/other-page2.html"
-                 img="http://www.example.com/image2.jpg">Link text
+                 url="https://greenbananafor.github.io/other-page2.html"
+                 img="https://greenbananafor.github.io/image2.jpg">Link text
                 </link>
             </yandex:related>
         </item>
