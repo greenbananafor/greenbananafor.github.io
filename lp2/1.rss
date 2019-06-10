@@ -11,21 +11,32 @@
             <link>https://greenbananafor.github.io/lp2/lp.html</link>            
             <turbo:content>
                 <![CDATA[
-                         <header>
-                             <figure>
-                                 <img src="https://greenbananafor.github.io/lp2/assets/images/mbr.jpg" />
-                             </figure>
-                             <h1>Деньги — выгодно, удобно, безопасно</h1>
+                         <header>                             
+                             <h1>Получите от 75 000 рублей или скидочный купон за 5 минут.</h1>
                          </header>
-                         <h2>Мгновенные кэшбэки</h2>
+			<p>
+                         <a href="https://greenbananafor.github.io/lp2/goto.html" data-turbo="false"><img src="https://greenbananafor.github.io/lp2/assets/images/2_logo.jpg" /></a>
+    		    </p>
+                        <button formaction="https://greenbananafor.github.io/lp2/goto.html"
+                                      data-background-color="#28a745"
+                                      data-color="white"
+                                      data-primary="true">Забрать Деньги</button>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+			<p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>
+
+			<h2>Мгновенные кэшбэки</h2>
                          <p>Просто платите картой Денег и получайте кэшбэк 5% баллами.</p>
                          <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-1.jpg" /><!Image-->                                           
                          
                         <h2>Банковская карта с доставкой</h2>
                          <p>Закажите онлайн дебетовую карту с доставкой – и курьер привезет ее вам на дом совершенно бесплатно.</p>
                          <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-2.jpg" /><!Image-->      
-			
-			  <h2>Виртуальная карта в один клик</h2>
+	    
+	      <h2>Виртуальная карта в один клик</h2>
                          <p>Первая виртуальная карта для моментальной оплаты ваших бизнес-расходов.</p>
                          <img src="https://greenbananafor.github.io/lp2/assets/images/mbr-3.jpg" /><!Image--> 
                          
