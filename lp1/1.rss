@@ -26,40 +26,15 @@
                          </header>
                          <h2>Мгновенные кэшбэки</h2>
                          <p>Просто платите картой Денег и получайте кэшбэк 5% баллами.</p>
-                         <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" /><!Image-->
-                        <figure><!--Картинка с подписью-->
-                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
-                             <figcaption>Caption</figcaption>
-                         </figure>
-                         <div data-block="gallery"><!--Image gallery-->
-                             <header>Images</header>
-                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
-                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
-                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
-                         </div>
-                         <blockquote><!-- Quote with text and image with caption-->
-                            <p>Text</p>
-                            <figure>
-                            <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
-                                <figcaption>Signature< / figcaption>
-                            </figure>
-                            </blockquote>
-                            <p>Second text paragraph in < b>bold< / b> that contains a list:< / p>
-                        <ul>
-                         <li>point 1;</li>
-                         <li>point 2.</li>
-                         </ul>
-                         <table>
-                          <tr><!--Table heading-->
-                                 <th>First column</th>
-                                 <th>Second column</th>
-                             </tr>
-                             <tr><!--Table row-->
-                                 <td>First column</td>
-                                 <td>Second column</td>
-                             </tr>
-                         </table>
+                         <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" /><!Image-->                                           
                          
+                        <h2>Банковская карта с доставкой</h2>
+                         <p>Закажите онлайн дебетовую карту с доставкой – и курьер привезет ее вам на дом совершенно бесплатно.</p>
+                         <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-2.jpg" /><!Image-->      
+						
+						  <h2>Виртуальная карта в один клик</h2>
+                         <p>Первая виртуальная карта для моментальной оплаты ваших бизнес-расходов.</p>
+                         <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-3.jpg" /><!Image--> 
                          
                       ]]>
             </turbo:content>            
