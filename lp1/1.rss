@@ -7,32 +7,8 @@
         <title>The RSS feed title</title>
         <link>https://greenbananafor.github.io/</link>
         <description>Short description of the RSS feed</description>
-        <turbo:analytics type="Yandex" id="123456"></turbo:analytics>
-        <turbo:adNetwork
-         type="Yandex"
-         id="block ID"
-         turbo-ad-id="first_ad_place">
-        </turbo:adNetwork>
-        <turbo:adNetwork
-         type="AdFox"
-         turbo-ad-id="second_ad_place">
-            <![CDATA[
-                    <div id="container ID"></div>
-                    <script>
-                        window.Ya.adfoxCode.create({
-                            ownerId: 123456,
-                            containerId: 'container ID',
-                            params: {
-                                pp: 'g',
-                                ps: 'cmic',
-                                p2: 'fqem'
-                            }
-                        });
-                    </script>
-                 ]]>
-        </turbo:adNetwork>
         <item turbo="true">
-            <link>https://greenbananafor.github.io/page1.html</link>
+            <link>https://greenbananafor.github.io/lp1/lp.html</link>
             <author>Ivan Ivanov</author>
             <category>Technologies</category>
             <pubDate>Sun, 29 Sep 2002 19:59:01 +0300</pubDate>
@@ -40,31 +16,31 @@
                 <![CDATA[
                          <header>
                              <figure>
-                                 <img src="http://example.com/img.jpg" />
+                                 <img src="https://greenbananafor.github.io/lp1/assets/images/mbr.jpg" />
                              </figure>
-                             <h1>Page heading</h1>
+                             <h1>Деньги — выгодно, удобно, безопасно</h1>
                              <menu><!--Элементы меню-->
-                                 <a href="http://example.com/page1.html">Текст ссылки</a>
-                                 <a href="http://example.com/page2.html">Текст ссылки</a>
+                                 <a href="https://greenbananafor.github.io/lp1/lp.html">Текст ссылки</a>
+                                 <a href="https://greenbananafor.github.io/lp1/lp.html">Текст ссылки</a>
                              </menu>
                          </header>
-                         <h2>Page header</h2>
-                         <p>First paragraph of the text.</p>
-                         <img src="http://example.com/img.jpg" /><!Image-->
+                         <h2>Мгновенные кэшбэки</h2>
+                         <p>Просто платите картой Денег и получайте кэшбэк 5% баллами.</p>
+                         <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" /><!Image-->
                         <figure><!--Картинка с подписью-->
-                             <img src="http://example.com/img.jpg" />
+                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
                              <figcaption>Caption</figcaption>
                          </figure>
                          <div data-block="gallery"><!--Image gallery-->
                              <header>Images</header>
-                             <img src="http://example.com/img1.jpg" />
-                             <img src="http://example.com/img2.jpg" />
-                             <img src="http://example.com/imgN.jpg" />
+                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
+                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
+                             <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
                          </div>
                          <blockquote><!-- Quote with text and image with caption-->
                             <p>Text</p>
                             <figure>
-                            <img src="http://example.com/img.jpg" />
+                            <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-1.jpg" />
                                 <figcaption>Signature< / figcaption>
                             </figure>
                             </blockquote>
@@ -83,72 +59,10 @@
                                  <td>Second column</td>
                              </tr>
                          </table>
-                         <!--Location of the second ad block specified in the "channel" element-->
-                         <figure data-turbo-ad-id="first_ad_place"></figure>
-                         <!--Video posted on your site-->
-                         <figure>
-                             <video>
-                                 <source src="https://example.com/video.mp4"
-                                  type="video/mp4" />
-                             </video>
-                             <img src="http://example.com/img-for-video.jpg" />
-                             <figcaption>Video caption</figcaption>
-                         </figure>
-                         <!--Video hosted on another resource, such as YouTube-->
-                         <iframe
-                          width="560"
-                          height="315"
-                          src="https://www.youtube.com/embed/<unique set of characters>" 
-                          frameborder="0" 
-                          allowfullscreen
-                         </iframe>
-                         <!--"Share" button-->
-                         <div data-block="share" data-network="twitter, facebook"></div>
-                         <!--The location of the second ad block specified in the "channel" element-->
-                         <figure data-turbo-ad-id="second_ad_place"></figure>
-                         <!--Comments block-->
-                         <div data-block="comments" data-url="http://example.com/comments">
-                             <div
-                              data-block="comment"
-                              data-author="author" 
-                              data-avatar-url="http://example.com/img.png" 
-                              data-subtitle="2017-12-10"
-                             >
-                                 <div data-block="content">
-                                     <header>First comment title</header>
-                                     <p>
-                                         <b>Text</b> of the comment
-                                         <a href="https://example.com">Link text</a>
-                                     </p>
-                                 </div>
-                                 <div data-block="comments"> 
-                                     <div 
-                                      data-block="comment"
-                                      data-author="author2">
-                                          <!--Reply to the first comment-->
-                                     </div> 
-                                 </div>  
-                             </div>
-                             <div
-                              data-block="comment"
-                              data-author="author"> 
-                                 <div data-block="content">
-                                     <!--Content of the second comment-->
-                                 </div>
-                             </div>  
-                         </div>
+                         
+                         
                       ]]>
-            </turbo:content>
-            <yandex:related type="infinity">
-                <link
-                 url="https://greenbananafor.github.io/other-page.html"
-                 img="https://greenbananafor.github.io/image.jpg">ТLink text
-                </link>
-                <link
-                 url="https://greenbananafor.github.io/other-page2.html"
-                 img="https://greenbananafor.github.io/image2.jpg">Link text
-                </link>
-            </yandex:related>
+            </turbo:content>            
         </item>
     </channel>
 </rss>
