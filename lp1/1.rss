@@ -8,10 +8,7 @@
         <link>https://greenbananafor.github.io/</link>
         <description>Short description of the RSS feed</description>
         <item turbo="true">
-            <link>https://greenbananafor.github.io/lp1/lp.html</link>
-            <author>Ivan Ivanov</author>
-            <category>Technologies</category>
-            <pubDate>Sun, 29 Sep 2002 19:59:01 +0300</pubDate>
+            <link>https://greenbananafor.github.io/lp1/lp.html</link>            
             <turbo:content>
                 <![CDATA[
                          <header>
@@ -27,8 +24,8 @@
                         <h2>Банковская карта с доставкой</h2>
                          <p>Закажите онлайн дебетовую карту с доставкой – и курьер привезет ее вам на дом совершенно бесплатно.</p>
                          <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-2.jpg" /><!Image-->      
-						
-						  <h2>Виртуальная карта в один клик</h2>
+			
+			  <h2>Виртуальная карта в один клик</h2>
                          <p>Первая виртуальная карта для моментальной оплаты ваших бизнес-расходов.</p>
                          <img src="https://greenbananafor.github.io/lp1/assets/images/mbr-3.jpg" /><!Image--> 
                          
